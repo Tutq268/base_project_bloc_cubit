@@ -1,0 +1,219 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "id": "NOTIF1",
+      "type": 1,
+      "notification_type": 0,
+      "title": "Bạn có gói quà gửi từ Nguyễn Việt Anh",
+      "content": "Nguyễn Việt Anh ****099 đã gửi cho bạn phần quà ON12 3 ngày. Hãy tận hưởng phần quà và gửi lời cảm ơn đến Nguyễn Việt Anh nhé,",
+      "date": "2024-04-22T15:05:07+07:00",
+      "gift_pack_data": "1",
+      "fromUser": {
+        "id": "user01",
+        "username": "Nguyễn Hoàng",
+        "phoneNumber": "0988917034"
+      }
+      
+    },
+
+     {
+      "type": 1,
+      "id": "NOTIF2",
+      "notification_type": 1,
+      "title": "Tặng 500Mb cho tài khoản đăng ký mới",
+      "content": "Để nhận thẻ cào điện tử (thẻ pincode) trị giá 10.000đ đơn giản dễ dàng để nạp tiền/thanh toán cho thuê bao thì chương trình áp dụng trong trường hợp thuê bao di động chưa có tài khoản My Viettel, theo đó người dùng cần thực hiện các thao tác đồng thời như tải ứng dụng, cài đặt, tạo tài khoản mới thành công và đăng nhập vào ứng dụng DataOn sau đó thực hiện 1 giao dịch tối thiểu 20.000đ như thanh toán cước/nạp tiền cho thuê bao hoặc mua gói/đăng ký gói data.",
+      "date": "2024-04-22T15:05:07+07:00",
+      "gift_pack_data":"2",
+      "fromUser": {
+        "id": "user02",
+        "username": "Nguyễn Hằng",
+        "phoneNumber": "0988917032"
+      }
+      
+    },
+     {
+      "id": "NOTIF3",
+      "type": 1,
+      "notification_type": 1,
+      "title": "Bạn có gói quà gửi từ Nguyễn Việt Anh",
+      "content": "Nguyễn Việt Anh ****099 đã gửi cho bạn phần quà ON24 3 ngày. Hãy tận hưởng phần quà và gửi lời cảm ơn đến Nguyễn Việt Anh nhé,",
+      "date": "2024-04-23T15:05:07+07:00",
+      "gift_pack_data": "3",
+
+           "fromUser": {
+        "id": "user03",
+        "username": "Nguyễn Ánh",
+        "phoneNumber": "0988917234"
+      }
+      
+    },
+     {
+     "id": "NOTIF4",
+      "type": 1,
+      "notification_type": 0,
+      "title": "Ưu đãi 20% khi nạp thẻ điện thoại",
+      "content": "Nguyễn Việt Anh ****099 đã gửi cho bạn phần quà ON12 3 ngày. Hãy tận hưởng phần quà và gửi lời cảm ơn đến Nguyễn Việt Anh nhé,",
+      "date": "2024-04-23T15:05:07+07:00",
+      "gift_pack_data":  "4",
+           "fromUser": {
+        "id": "user04",
+        "username": "Nguyễn  Hai",
+        "phoneNumber": "0988917224"
+      }
+      
+    },
+     {
+    "id": "NOTIF5",
+      "type": 1,
+      "notification_type": 0,
+      "title": "TẶNG NGAY THẺ CÀO ĐIỆN TỬ 10.000Đ KHI ĐĂNG KÝ TÀI KHOẢN MY VIETTEL",
+      "content": "Với mong muốn thêm nhiều ưu đãi khuyến mại đến khách hàng thu hút tương tác vào ứng dụng. My Viettel tặng bạn thẻ cào điện tử 10.000đ khi đăng ký tạo tài khoản My Viettel thành công và thực hiện một trong các giao dịch thanh toán/nạp tiền/mua gói data tối thiểu 20.000đ. Để nhận thẻ cào điện tử (thẻ pincode) trị giá 10.000đ đơn giản dễ dàng để nạp tiền/thanh toán cho thuê bao thì chương trình áp dụng trong trường hợp thuê bao di động chưa có tài khoản My Viettel, theo đó người dùng cần thực hiện các thao tác đồng thời như tải ứng dụng, cài đặt, tạo tài khoản mới thành công và đăng nhập vào ứng dụng My Viettel sau đó thực hiện 1 giao dịch tối thiểu 20.000đ như thanh toán cước/nạp tiền cho thuê bao hoặc mua gói/đăng ký gói data.",
+      "date": "2024-04-24T15:05:07+07:00",
+      "gift_pack_data": "5",
+           "fromUser": {
+        "id": "user05",
+        "username": "Trần Đôn",
+        "phoneNumber": "0988972223"
+      }
+      
+    },
+
+         {
+    "id": "NOTIF6",
+      "type": 1,
+      "notification_type": 2,
+      "title": "Hướng dẫn các biện pháp đảm bảo an toàn thông tin cá nhân khi sử dụng dịch vụ DataOn",
+      "content": "Hiện nay, việc đánh cắp các thông tin cá nhân của người dùng internet để lợi dụng chiếm đoạt tài sản của cá nhân hiện đang khá phổ biến, do vậy các Khách hàng Viettel Money cần phải tự ý thức bảo vệ thông tin cá nhân khi tham gia hoạt động trên môi trường mạng./nĐể sử dụng dịch vụ Viettel Money một cách an toàn, bảo mật thông tin cá nhân trên môi trường internet, Viettel hướng dẫn khách hàng các biện pháp như sau: \n Bảo vệ bí mật mã khóa bí mật, OTP và không chia sẻ các thiết bị lưu trữ các thông tin này; \n Cách thiết lập mã khóa bí mật và thay đổi mã khóa bí mật tài khoản truy cập theo định kỳ tối thiểu một năm một lần hoặc khi bị lộ, nghi bị lộ; \n Không dùng máy tính công cộng để truy cập, thực hiện giao dịch Viettel Money; \n Không lưu lại tên đăng nhập và mã khóa bí mật trên các trình duyệt web; \n Thoát khỏi Ứng dụng khi không sử dụng; \n Nhận dạng và hành động xử lý một số tình huống lừa đảo, giả mạo trong việc thực hiện giao dịch trực tuyến; \n Yêu cầu cài đặt, sử dụng phần mềm diệt vi rút trên thiết bị cá nhân sử dụng để thực hiện giao dịch Viettel Money; \n Lựa chọn các giải pháp xác thực có mức độ an toàn, bảo mật phù hợp với nhu cầu của khách hàng về hạn mức giao dịch; \n Cảnh báo các rủi ro liên quan đến việc sử dụng dịch vụ Viettel Money; \n Không sử dụng các thiết bị di động đã bị phá khóa để tải và sử dụng ứng dụng Viettel Money, phần mềm tạo OTP. \n Thông báo kịp thời cho đơn vị khi phát hiện các giao dịch bất thường; \n Thông báo ngay cho đơn vị các trường hợp: mất, thất lạc, hư hỏng thiết bị tạo OTP, số điện thoại nhận tin nhắn SMS, thiết bị lưu trữ khoá bảo mật tạo chữ ký số; bị lừa đảo hoặc nghi ngờ bị lừa đảo; bị tin tặc hoặc nghi ngờ bị tin tặc tấn công. \n Trường hợp bị lộ lọt thông tin cá nhân (liên quan đến dịch vụ Viettel Money) khách hàng vui lòng liên hệ một trong các kênh sau: Điểm kinh doanh của Viettel trên toàn quốc, tổng đài của Viettel Money: 1800 9000 để được Viettel hỗ trợ kịp thời.",
+      "date": "2024-04-22T15:05:07+07:00",
+      "gift_pack_data": "5"
+    },
+         {
+    "id": "NOTIF7",
+      "type": 1,
+      "notification_type": 3,
+      "title": "Tạm ngừng dịch vụ SaveNow trên DataOn",
+      "content": "Hiện nay, việc đánh cắp các thông tin cá nhân của người dùng internet để lợi dụng chiếm đoạt tài sản của cá nhân hiện đang khá phổ biến, do vậy các Khách hàng Viettel Money cần phải tự ý thức bảo vệ thông tin cá nhân khi tham gia hoạt động trên môi trường mạng./nĐể sử dụng dịch vụ Viettel Money một cách an toàn, bảo mật thông tin cá nhân trên môi trường internet, Viettel hướng dẫn khách hàng các biện pháp như sau: \n Bảo vệ bí mật mã khóa bí mật, OTP và không chia sẻ các thiết bị lưu trữ các thông tin này; \n Cách thiết lập mã khóa bí mật và thay đổi mã khóa bí mật tài khoản truy cập theo định kỳ tối thiểu một năm một lần hoặc khi bị lộ, nghi bị lộ; \n Không dùng máy tính công cộng để truy cập, thực hiện giao dịch Viettel Money; \n Không lưu lại tên đăng nhập và mã khóa bí mật trên các trình duyệt web; \n Thoát khỏi Ứng dụng khi không sử dụng; \n Nhận dạng và hành động xử lý một số tình huống lừa đảo, giả mạo trong việc thực hiện giao dịch trực tuyến; \n Yêu cầu cài đặt, sử dụng phần mềm diệt vi rút trên thiết bị cá nhân sử dụng để thực hiện giao dịch Viettel Money; \n Lựa chọn các giải pháp xác thực có mức độ an toàn, bảo mật phù hợp với nhu cầu của khách hàng về hạn mức giao dịch; \n Cảnh báo các rủi ro liên quan đến việc sử dụng dịch vụ Viettel Money; \n Không sử dụng các thiết bị di động đã bị phá khóa để tải và sử dụng ứng dụng Viettel Money, phần mềm tạo OTP. \n Thông báo kịp thời cho đơn vị khi phát hiện các giao dịch bất thường; \n Thông báo ngay cho đơn vị các trường hợp: mất, thất lạc, hư hỏng thiết bị tạo OTP, số điện thoại nhận tin nhắn SMS, thiết bị lưu trữ khoá bảo mật tạo chữ ký số; bị lừa đảo hoặc nghi ngờ bị lừa đảo; bị tin tặc hoặc nghi ngờ bị tin tặc tấn công. \n Trường hợp bị lộ lọt thông tin cá nhân (liên quan đến dịch vụ Viettel Money) khách hàng vui lòng liên hệ một trong các kênh sau: Điểm kinh doanh của Viettel trên toàn quốc, tổng đài của Viettel Money: 1800 9000 để được Viettel hỗ trợ kịp thời.",
+      "date": "2024-04-22T15:05:07+07:00",
+      "gift_pack_data": "5"
+    },
+         {
+    "id": "NOTIF8",
+      "type": 1,
+      "notification_type": 3,
+      "title": "Thông báo về Chính sách bảo vệ dữ liệu cá nhân",
+      "content": "Hiện nay, việc đánh cắp các thông tin cá nhân của người dùng internet để lợi dụng chiếm đoạt tài sản của cá nhân hiện đang khá phổ biến, do vậy các Khách hàng Viettel Money cần phải tự ý thức bảo vệ thông tin cá nhân khi tham gia hoạt động trên môi trường mạng./nĐể sử dụng dịch vụ Viettel Money một cách an toàn, bảo mật thông tin cá nhân trên môi trường internet, Viettel hướng dẫn khách hàng các biện pháp như sau: \n Bảo vệ bí mật mã khóa bí mật, OTP và không chia sẻ các thiết bị lưu trữ các thông tin này; \n Cách thiết lập mã khóa bí mật và thay đổi mã khóa bí mật tài khoản truy cập theo định kỳ tối thiểu một năm một lần hoặc khi bị lộ, nghi bị lộ; \n Không dùng máy tính công cộng để truy cập, thực hiện giao dịch Viettel Money; \n Không lưu lại tên đăng nhập và mã khóa bí mật trên các trình duyệt web; \n Thoát khỏi Ứng dụng khi không sử dụng; \n Nhận dạng và hành động xử lý một số tình huống lừa đảo, giả mạo trong việc thực hiện giao dịch trực tuyến; \n Yêu cầu cài đặt, sử dụng phần mềm diệt vi rút trên thiết bị cá nhân sử dụng để thực hiện giao dịch Viettel Money; \n Lựa chọn các giải pháp xác thực có mức độ an toàn, bảo mật phù hợp với nhu cầu của khách hàng về hạn mức giao dịch; \n Cảnh báo các rủi ro liên quan đến việc sử dụng dịch vụ Viettel Money; \n Không sử dụng các thiết bị di động đã bị phá khóa để tải và sử dụng ứng dụng Viettel Money, phần mềm tạo OTP. \n Thông báo kịp thời cho đơn vị khi phát hiện các giao dịch bất thường; \n Thông báo ngay cho đơn vị các trường hợp: mất, thất lạc, hư hỏng thiết bị tạo OTP, số điện thoại nhận tin nhắn SMS, thiết bị lưu trữ khoá bảo mật tạo chữ ký số; bị lừa đảo hoặc nghi ngờ bị lừa đảo; bị tin tặc hoặc nghi ngờ bị tin tặc tấn công. \n Trường hợp bị lộ lọt thông tin cá nhân (liên quan đến dịch vụ Viettel Money) khách hàng vui lòng liên hệ một trong các kênh sau: Điểm kinh doanh của Viettel trên toàn quốc, tổng đài của Viettel Money: 1800 9000 để được Viettel hỗ trợ kịp thời.",
+      "date": "2024-04-22T15:05:07+07:00",
+      "gift_pack_data": "5"
+    },
+         {
+    "id": "NOTIF9",
+      "type": 1,
+      "notification_type": 2,
+      "title": "DataOn chính thức ra mắt phiên bản 6.8",
+      "content": "Hiện nay, việc đánh cắp các thông tin cá nhân của người dùng internet để lợi dụng chiếm đoạt tài sản của cá nhân hiện đang khá phổ biến, do vậy các Khách hàng Viettel Money cần phải tự ý thức bảo vệ thông tin cá nhân khi tham gia hoạt động trên môi trường mạng./nĐể sử dụng dịch vụ Viettel Money một cách an toàn, bảo mật thông tin cá nhân trên môi trường internet, Viettel hướng dẫn khách hàng các biện pháp như sau: \n Bảo vệ bí mật mã khóa bí mật, OTP và không chia sẻ các thiết bị lưu trữ các thông tin này; \n Cách thiết lập mã khóa bí mật và thay đổi mã khóa bí mật tài khoản truy cập theo định kỳ tối thiểu một năm một lần hoặc khi bị lộ, nghi bị lộ; \n Không dùng máy tính công cộng để truy cập, thực hiện giao dịch Viettel Money; \n Không lưu lại tên đăng nhập và mã khóa bí mật trên các trình duyệt web; \n Thoát khỏi Ứng dụng khi không sử dụng; \n Nhận dạng và hành động xử lý một số tình huống lừa đảo, giả mạo trong việc thực hiện giao dịch trực tuyến; \n Yêu cầu cài đặt, sử dụng phần mềm diệt vi rút trên thiết bị cá nhân sử dụng để thực hiện giao dịch Viettel Money; \n Lựa chọn các giải pháp xác thực có mức độ an toàn, bảo mật phù hợp với nhu cầu của khách hàng về hạn mức giao dịch; \n Cảnh báo các rủi ro liên quan đến việc sử dụng dịch vụ Viettel Money; \n Không sử dụng các thiết bị di động đã bị phá khóa để tải và sử dụng ứng dụng Viettel Money, phần mềm tạo OTP. \n Thông báo kịp thời cho đơn vị khi phát hiện các giao dịch bất thường; \n Thông báo ngay cho đơn vị các trường hợp: mất, thất lạc, hư hỏng thiết bị tạo OTP, số điện thoại nhận tin nhắn SMS, thiết bị lưu trữ khoá bảo mật tạo chữ ký số; bị lừa đảo hoặc nghi ngờ bị lừa đảo; bị tin tặc hoặc nghi ngờ bị tin tặc tấn công. \n Trường hợp bị lộ lọt thông tin cá nhân (liên quan đến dịch vụ Viettel Money) khách hàng vui lòng liên hệ một trong các kênh sau: Điểm kinh doanh của Viettel trên toàn quốc, tổng đài của Viettel Money: 1800 9000 để được Viettel hỗ trợ kịp thời.",
+      "date": "2024-04-23T15:05:07+07:00",
+      "gift_pack_data": "5"
+    },
+         {
+    "id": "NOTIF10",
+      "type": 1,
+      "notification_type": 2,
+      "title": "DataOn ngừng cung cấp phương thức xác thực bằng USSD",
+      "content": "Hiện nay, việc đánh cắp các thông tin cá nhân của người dùng internet để lợi dụng chiếm đoạt tài sản của cá nhân hiện đang khá phổ biến, do vậy các Khách hàng Viettel Money cần phải tự ý thức bảo vệ thông tin cá nhân khi tham gia hoạt động trên môi trường mạng./nĐể sử dụng dịch vụ Viettel Money một cách an toàn, bảo mật thông tin cá nhân trên môi trường internet, Viettel hướng dẫn khách hàng các biện pháp như sau: \n Bảo vệ bí mật mã khóa bí mật, OTP và không chia sẻ các thiết bị lưu trữ các thông tin này; \n Cách thiết lập mã khóa bí mật và thay đổi mã khóa bí mật tài khoản truy cập theo định kỳ tối thiểu một năm một lần hoặc khi bị lộ, nghi bị lộ; \n Không dùng máy tính công cộng để truy cập, thực hiện giao dịch Viettel Money; \n Không lưu lại tên đăng nhập và mã khóa bí mật trên các trình duyệt web; \n Thoát khỏi Ứng dụng khi không sử dụng; \n Nhận dạng và hành động xử lý một số tình huống lừa đảo, giả mạo trong việc thực hiện giao dịch trực tuyến; \n Yêu cầu cài đặt, sử dụng phần mềm diệt vi rút trên thiết bị cá nhân sử dụng để thực hiện giao dịch Viettel Money; \n Lựa chọn các giải pháp xác thực có mức độ an toàn, bảo mật phù hợp với nhu cầu của khách hàng về hạn mức giao dịch; \n Cảnh báo các rủi ro liên quan đến việc sử dụng dịch vụ Viettel Money; \n Không sử dụng các thiết bị di động đã bị phá khóa để tải và sử dụng ứng dụng Viettel Money, phần mềm tạo OTP. \n Thông báo kịp thời cho đơn vị khi phát hiện các giao dịch bất thường; \n Thông báo ngay cho đơn vị các trường hợp: mất, thất lạc, hư hỏng thiết bị tạo OTP, số điện thoại nhận tin nhắn SMS, thiết bị lưu trữ khoá bảo mật tạo chữ ký số; bị lừa đảo hoặc nghi ngờ bị lừa đảo; bị tin tặc hoặc nghi ngờ bị tin tặc tấn công. \n Trường hợp bị lộ lọt thông tin cá nhân (liên quan đến dịch vụ Viettel Money) khách hàng vui lòng liên hệ một trong các kênh sau: Điểm kinh doanh của Viettel trên toàn quốc, tổng đài của Viettel Money: 1800 9000 để được Viettel hỗ trợ kịp thời.",
+      "date": "2024-04-23T15:05:07+07:00",
+      "gift_pack_data": "5"
+    },
+         {
+    "id": "NOTIF11",
+      "type": 1,
+      "notification_type": 3,
+      "title": "Thông báo phí quản lý chuyển tiền mặt nhận tại điểm giao dịch Viettel",
+      "content": "Hiện nay, việc đánh cắp các thông tin cá nhân của người dùng internet để lợi dụng chiếm đoạt tài sản của cá nhân hiện đang khá phổ biến, do vậy các Khách hàng Viettel Money cần phải tự ý thức bảo vệ thông tin cá nhân khi tham gia hoạt động trên môi trường mạng./nĐể sử dụng dịch vụ Viettel Money một cách an toàn, bảo mật thông tin cá nhân trên môi trường internet, Viettel hướng dẫn khách hàng các biện pháp như sau: \n Bảo vệ bí mật mã khóa bí mật, OTP và không chia sẻ các thiết bị lưu trữ các thông tin này; \n Cách thiết lập mã khóa bí mật và thay đổi mã khóa bí mật tài khoản truy cập theo định kỳ tối thiểu một năm một lần hoặc khi bị lộ, nghi bị lộ; \n Không dùng máy tính công cộng để truy cập, thực hiện giao dịch Viettel Money; \n Không lưu lại tên đăng nhập và mã khóa bí mật trên các trình duyệt web; \n Thoát khỏi Ứng dụng khi không sử dụng; \n Nhận dạng và hành động xử lý một số tình huống lừa đảo, giả mạo trong việc thực hiện giao dịch trực tuyến; \n Yêu cầu cài đặt, sử dụng phần mềm diệt vi rút trên thiết bị cá nhân sử dụng để thực hiện giao dịch Viettel Money; \n Lựa chọn các giải pháp xác thực có mức độ an toàn, bảo mật phù hợp với nhu cầu của khách hàng về hạn mức giao dịch; \n Cảnh báo các rủi ro liên quan đến việc sử dụng dịch vụ Viettel Money; \n Không sử dụng các thiết bị di động đã bị phá khóa để tải và sử dụng ứng dụng Viettel Money, phần mềm tạo OTP. \n Thông báo kịp thời cho đơn vị khi phát hiện các giao dịch bất thường; \n Thông báo ngay cho đơn vị các trường hợp: mất, thất lạc, hư hỏng thiết bị tạo OTP, số điện thoại nhận tin nhắn SMS, thiết bị lưu trữ khoá bảo mật tạo chữ ký số; bị lừa đảo hoặc nghi ngờ bị lừa đảo; bị tin tặc hoặc nghi ngờ bị tin tặc tấn công. \n Trường hợp bị lộ lọt thông tin cá nhân (liên quan đến dịch vụ Viettel Money) khách hàng vui lòng liên hệ một trong các kênh sau: Điểm kinh doanh của Viettel trên toàn quốc, tổng đài của Viettel Money: 1800 9000 để được Viettel hỗ trợ kịp thời.",
+      "date": "2024-04-24T15:05:07+07:00",
+      "gift_pack_data": "5"
+    },
+         {
+    "id": "NOTIF12",
+      "type": 1,
+      "notification_type": 3,
+      "title": "Thanh toán tiện lợi | Đóng tiền điện EVN HCM ngay tại nhà",
+      "content": "Hiện nay, việc đánh cắp các thông tin cá nhân của người dùng internet để lợi dụng chiếm đoạt tài sản của cá nhân hiện đang khá phổ biến, do vậy các Khách hàng Viettel Money cần phải tự ý thức bảo vệ thông tin cá nhân khi tham gia hoạt động trên môi trường mạng./nĐể sử dụng dịch vụ Viettel Money một cách an toàn, bảo mật thông tin cá nhân trên môi trường internet, Viettel hướng dẫn khách hàng các biện pháp như sau: \n Bảo vệ bí mật mã khóa bí mật, OTP và không chia sẻ các thiết bị lưu trữ các thông tin này; \n Cách thiết lập mã khóa bí mật và thay đổi mã khóa bí mật tài khoản truy cập theo định kỳ tối thiểu một năm một lần hoặc khi bị lộ, nghi bị lộ; \n Không dùng máy tính công cộng để truy cập, thực hiện giao dịch Viettel Money; \n Không lưu lại tên đăng nhập và mã khóa bí mật trên các trình duyệt web; \n Thoát khỏi Ứng dụng khi không sử dụng; \n Nhận dạng và hành động xử lý một số tình huống lừa đảo, giả mạo trong việc thực hiện giao dịch trực tuyến; \n Yêu cầu cài đặt, sử dụng phần mềm diệt vi rút trên thiết bị cá nhân sử dụng để thực hiện giao dịch Viettel Money; \n Lựa chọn các giải pháp xác thực có mức độ an toàn, bảo mật phù hợp với nhu cầu của khách hàng về hạn mức giao dịch; \n Cảnh báo các rủi ro liên quan đến việc sử dụng dịch vụ Viettel Money; \n Không sử dụng các thiết bị di động đã bị phá khóa để tải và sử dụng ứng dụng Viettel Money, phần mềm tạo OTP. \n Thông báo kịp thời cho đơn vị khi phát hiện các giao dịch bất thường; \n Thông báo ngay cho đơn vị các trường hợp: mất, thất lạc, hư hỏng thiết bị tạo OTP, số điện thoại nhận tin nhắn SMS, thiết bị lưu trữ khoá bảo mật tạo chữ ký số; bị lừa đảo hoặc nghi ngờ bị lừa đảo; bị tin tặc hoặc nghi ngờ bị tin tặc tấn công. \n Trường hợp bị lộ lọt thông tin cá nhân (liên quan đến dịch vụ Viettel Money) khách hàng vui lòng liên hệ một trong các kênh sau: Điểm kinh doanh của Viettel trên toàn quốc, tổng đài của Viettel Money: 1800 9000 để được Viettel hỗ trợ kịp thời.",
+      "date": "2024-04-24T15:05:07+07:00",
+      "gift_pack_data": "5"
+    },
+         {
+    "id": "NOTIF13",
+      "type": 1,
+      "notification_type": 3,
+      "title": "ĐÓNG TIỀN TRẢ GÓP VIETCREDIT | TÀI CHÍNH VỮNG VÀNG, CUỘC SỐNG AN NHIÊN - Viettel Money",
+      "content": "Hiện nay, việc đánh cắp các thông tin cá nhân của người dùng internet để lợi dụng chiếm đoạt tài sản của cá nhân hiện đang khá phổ biến, do vậy các Khách hàng Viettel Money cần phải tự ý thức bảo vệ thông tin cá nhân khi tham gia hoạt động trên môi trường mạng./nĐể sử dụng dịch vụ Viettel Money một cách an toàn, bảo mật thông tin cá nhân trên môi trường internet, Viettel hướng dẫn khách hàng các biện pháp như sau: \n Bảo vệ bí mật mã khóa bí mật, OTP và không chia sẻ các thiết bị lưu trữ các thông tin này; \n Cách thiết lập mã khóa bí mật và thay đổi mã khóa bí mật tài khoản truy cập theo định kỳ tối thiểu một năm một lần hoặc khi bị lộ, nghi bị lộ; \n Không dùng máy tính công cộng để truy cập, thực hiện giao dịch Viettel Money; \n Không lưu lại tên đăng nhập và mã khóa bí mật trên các trình duyệt web; \n Thoát khỏi Ứng dụng khi không sử dụng; \n Nhận dạng và hành động xử lý một số tình huống lừa đảo, giả mạo trong việc thực hiện giao dịch trực tuyến; \n Yêu cầu cài đặt, sử dụng phần mềm diệt vi rút trên thiết bị cá nhân sử dụng để thực hiện giao dịch Viettel Money; \n Lựa chọn các giải pháp xác thực có mức độ an toàn, bảo mật phù hợp với nhu cầu của khách hàng về hạn mức giao dịch; \n Cảnh báo các rủi ro liên quan đến việc sử dụng dịch vụ Viettel Money; \n Không sử dụng các thiết bị di động đã bị phá khóa để tải và sử dụng ứng dụng Viettel Money, phần mềm tạo OTP. \n Thông báo kịp thời cho đơn vị khi phát hiện các giao dịch bất thường; \n Thông báo ngay cho đơn vị các trường hợp: mất, thất lạc, hư hỏng thiết bị tạo OTP, số điện thoại nhận tin nhắn SMS, thiết bị lưu trữ khoá bảo mật tạo chữ ký số; bị lừa đảo hoặc nghi ngờ bị lừa đảo; bị tin tặc hoặc nghi ngờ bị tin tặc tấn công. \n Trường hợp bị lộ lọt thông tin cá nhân (liên quan đến dịch vụ Viettel Money) khách hàng vui lòng liên hệ một trong các kênh sau: Điểm kinh doanh của Viettel trên toàn quốc, tổng đài của Viettel Money: 1800 9000 để được Viettel hỗ trợ kịp thời.",
+      "date": "2024-04-24T15:05:07+07:00",
+      "gift_pack_data": "5"
+    },
+         {
+    "id": "NOTIF14",
+      "type": 1,
+      "notification_type": 3,
+      "title": "Top 3 app đóng tiền điện online an toàn, uy tín nhất tại Việt Nam",
+      "content": "Hiện nay, việc đánh cắp các thông tin cá nhân của người dùng internet để lợi dụng chiếm đoạt tài sản của cá nhân hiện đang khá phổ biến, do vậy các Khách hàng Viettel Money cần phải tự ý thức bảo vệ thông tin cá nhân khi tham gia hoạt động trên môi trường mạng./nĐể sử dụng dịch vụ Viettel Money một cách an toàn, bảo mật thông tin cá nhân trên môi trường internet, Viettel hướng dẫn khách hàng các biện pháp như sau: \n Bảo vệ bí mật mã khóa bí mật, OTP và không chia sẻ các thiết bị lưu trữ các thông tin này; \n Cách thiết lập mã khóa bí mật và thay đổi mã khóa bí mật tài khoản truy cập theo định kỳ tối thiểu một năm một lần hoặc khi bị lộ, nghi bị lộ; \n Không dùng máy tính công cộng để truy cập, thực hiện giao dịch Viettel Money; \n Không lưu lại tên đăng nhập và mã khóa bí mật trên các trình duyệt web; \n Thoát khỏi Ứng dụng khi không sử dụng; \n Nhận dạng và hành động xử lý một số tình huống lừa đảo, giả mạo trong việc thực hiện giao dịch trực tuyến; \n Yêu cầu cài đặt, sử dụng phần mềm diệt vi rút trên thiết bị cá nhân sử dụng để thực hiện giao dịch Viettel Money; \n Lựa chọn các giải pháp xác thực có mức độ an toàn, bảo mật phù hợp với nhu cầu của khách hàng về hạn mức giao dịch; \n Cảnh báo các rủi ro liên quan đến việc sử dụng dịch vụ Viettel Money; \n Không sử dụng các thiết bị di động đã bị phá khóa để tải và sử dụng ứng dụng Viettel Money, phần mềm tạo OTP. \n Thông báo kịp thời cho đơn vị khi phát hiện các giao dịch bất thường; \n Thông báo ngay cho đơn vị các trường hợp: mất, thất lạc, hư hỏng thiết bị tạo OTP, số điện thoại nhận tin nhắn SMS, thiết bị lưu trữ khoá bảo mật tạo chữ ký số; bị lừa đảo hoặc nghi ngờ bị lừa đảo; bị tin tặc hoặc nghi ngờ bị tin tặc tấn công. \n Trường hợp bị lộ lọt thông tin cá nhân (liên quan đến dịch vụ Viettel Money) khách hàng vui lòng liên hệ một trong các kênh sau: Điểm kinh doanh của Viettel trên toàn quốc, tổng đài của Viettel Money: 1800 9000 để được Viettel hỗ trợ kịp thời.",
+      "date": "2024-04-24T15:05:07+07:00",
+      "gift_pack_data": "5"
+    },
+         {
+    "id": "NOTIF15",
+      "type": 1,
+      "notification_type": 2,
+      "title": "Xem hóa đơn tiền điện HCM online – Dịch vụ tra cứu nhanh chóng",
+      "content": "Hiện nay, việc đánh cắp các thông tin cá nhân của người dùng internet để lợi dụng chiếm đoạt tài sản của cá nhân hiện đang khá phổ biến, do vậy các Khách hàng Viettel Money cần phải tự ý thức bảo vệ thông tin cá nhân khi tham gia hoạt động trên môi trường mạng./nĐể sử dụng dịch vụ Viettel Money một cách an toàn, bảo mật thông tin cá nhân trên môi trường internet, Viettel hướng dẫn khách hàng các biện pháp như sau: \n Bảo vệ bí mật mã khóa bí mật, OTP và không chia sẻ các thiết bị lưu trữ các thông tin này; \n Cách thiết lập mã khóa bí mật và thay đổi mã khóa bí mật tài khoản truy cập theo định kỳ tối thiểu một năm một lần hoặc khi bị lộ, nghi bị lộ; \n Không dùng máy tính công cộng để truy cập, thực hiện giao dịch Viettel Money; \n Không lưu lại tên đăng nhập và mã khóa bí mật trên các trình duyệt web; \n Thoát khỏi Ứng dụng khi không sử dụng; \n Nhận dạng và hành động xử lý một số tình huống lừa đảo, giả mạo trong việc thực hiện giao dịch trực tuyến; \n Yêu cầu cài đặt, sử dụng phần mềm diệt vi rút trên thiết bị cá nhân sử dụng để thực hiện giao dịch Viettel Money; \n Lựa chọn các giải pháp xác thực có mức độ an toàn, bảo mật phù hợp với nhu cầu của khách hàng về hạn mức giao dịch; \n Cảnh báo các rủi ro liên quan đến việc sử dụng dịch vụ Viettel Money; \n Không sử dụng các thiết bị di động đã bị phá khóa để tải và sử dụng ứng dụng Viettel Money, phần mềm tạo OTP. \n Thông báo kịp thời cho đơn vị khi phát hiện các giao dịch bất thường; \n Thông báo ngay cho đơn vị các trường hợp: mất, thất lạc, hư hỏng thiết bị tạo OTP, số điện thoại nhận tin nhắn SMS, thiết bị lưu trữ khoá bảo mật tạo chữ ký số; bị lừa đảo hoặc nghi ngờ bị lừa đảo; bị tin tặc hoặc nghi ngờ bị tin tặc tấn công. \n Trường hợp bị lộ lọt thông tin cá nhân (liên quan đến dịch vụ Viettel Money) khách hàng vui lòng liên hệ một trong các kênh sau: Điểm kinh doanh của Viettel trên toàn quốc, tổng đài của Viettel Money: 1800 9000 để được Viettel hỗ trợ kịp thời.",
+      "date": "2024-04-24T15:05:07+07:00",
+      "gift_pack_data": "5"
+    },
+
+
+     {
+      "type": 0,
+      "id": "NOTIF111",
+      "notification_type": 1,
+      "title": "TẶNG NGAY THẺ CÀO ĐIỆN TỬ 10.000Đ KHI ĐĂNG KÝ TÀI KHOẢN MY VIETTEL",
+      "content": "Với mong muốn thêm nhiều ưu đãi khuyến mại đến khách hàng thu hút tương tác vào ứng dụng. My Viettel tặng bạn thẻ cào điện tử 10.000đ khi đăng ký tạo tài khoản My Viettel thành công và thực hiện một trong các giao dịch thanh toán/nạp tiền/mua gói data tối thiểu 20.000đ. \n Để nhận thẻ cào điện tử (thẻ pincode) trị giá 10.000đ đơn giản dễ dàng để nạp tiền/thanh toán cho thuê bao thì chương trình áp dụng trong trường hợp thuê bao di động chưa có tài khoản My Viettel, theo đó người dùng cần thực hiện các thao tác đồng thời như tải ứng dụng, cài đặt, tạo tài khoản mới thành công và đăng nhập vào ứng dụng My Viettel sau đó thực hiện 1 giao dịch tối thiểu 20.000đ như thanh toán cước/nạp tiền cho thuê bao hoặc mua gói/đăng ký gói data.",
+      "date": "2024-04-22T15:05:07+07:00",
+      "gift_pack_data":"200",
+      "fromUser": {
+        "id": "user02",
+        "username": "Nguyễn Hằng",
+        "phoneNumber": "0988917032"
+      }
+      
+    },
+      {
+      "type": 0,
+      "id": "NOTIF112",
+      "notification_type": 1,
+      "title": "SIÊU KHUYẾN MẠI THANH TOÁN/ NẠP TIỀN TRÊN MY VIETTEL",
+      "content": "Chào mừng Đại lễ 30/4 – 1/5, hàng loạt các chương trình khuyến mại nạp tiền thanh toán cực HOT, đã đổ bộ độc quyền trên ứng dụng My Viettel. Hãy cùng khám phá nhiều ưu đãi hấp dẫn trong bài viết này và lựa chọn cho mình những “deal hời” phù hợp nhất nhé! \n 1. Tặng đến 10.000 điểm Viettel++ khi thanh toán cước di động trả sau \n Chính sách: Khuyến mại 50% giá trị thanh toán cước di động trả sau. Ưu đãi được quy đổi sang điểm Viettel++ (tối đa 10.000 điểm).",
+      "date": "2024-04-22T15:05:07+07:00",
+      "gift_pack_data":"200",
+      "fromUser": {
+        "id": "user02",
+        "username": "Nguyễn Hằng",
+        "phoneNumber": "0988917032"
+      }
+      
+    },
+     {
+      "type": 0,
+      "id": "NOTIF115",
+      "notification_type": 1,
+      "title": "VIETTEL ĐIỀU CHỈNH CHÍNH SÁCH GIÁ CƯỚC VÀ PHƯƠNG THỨC TÍNH CƯỚC GỌI THOẠI QUỐC TẾ TỚI 15 QUỐC GIA/VÙNG LÃNH THỔ",
+      "content": "Từ ngày 23/04/2024, để phù hợp với thay đổi của các nhà mạng trên thế giới dựa theo tiêu chuẩn của Liên minh Viễn thông Quốc tế ITU (International Telecommunication Union), Viettel áp dụng chính sách giá cước và phương thức tính cước gọi Thoại Quốc tế mới tại 15 quốc gia/vùng lãnh thổ \n Cụ thể, Viettel sẽ thay đổi phương thức tính cước gọi Quốc tế tới 6 quốc gia/vùng lãnh thổ và thay đổi giá cước gọi Quốc tế tới 9 quốc gia/vùng lãnh thổ.",
+      "date": "2024-04-22T15:05:07+07:00",
+      "gift_pack_data":"200",
+      "fromUser": {
+        "id": "user02",
+        "username": "Nguyễn Hằng",
+        "phoneNumber": "0988917032"
+      }
+    }
+  ]
+}

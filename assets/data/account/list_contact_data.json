@@ -1,0 +1,80 @@
+{
+  "code": 200,
+  "data": [
+      {
+        "id": "user01",
+        "username": "Nguyễn Hoàng",
+        "phoneNumber": "0988112034"
+      },
+        {
+        "id": "user02",
+        "username": "Trần Minh",
+        "phoneNumber": "0968217034"
+      },
+        {
+        "id": "user03",
+        "username": "Em Kha",
+        "phoneNumber": "0968317034"
+      },
+        {
+        "id": "user04",
+        "username": "Anh Bảnh",
+        "phoneNumber": "0988554034"
+      },
+        {
+        "id": "user05",
+        "username": "Chị Bảy",
+        "phoneNumber": "0988917034"
+      },
+        {
+        "id": "user06",
+        "username": "Cháu Hồng",
+        "phoneNumber": "0988943034"
+      },
+        {
+        "id": "user07",
+        "username": "Chú Như",
+        "phoneNumber": "0988917544"
+      },
+        {
+        "id": "user08",
+        "username": "Bác Trí",
+        "phoneNumber": "0988919846"
+      },
+        {
+        "id": "user09",
+        "username": "Cô Hà",
+        "phoneNumber": "0986849034"
+      },
+        {
+        "id": "user10",
+        "username": "Ông Tuệ",
+        "phoneNumber": "0988930596"
+      },
+        {
+        "id": "user11",
+        "username": "Cụ Bằnng",
+        "phoneNumber": "0986485768"
+      },
+        {
+        "id": "user12",
+        "username": "Ki Bo",
+        "phoneNumber": "0985958643"
+      },
+        {
+        "id": "user13",
+        "username": "Chắt Lannh",
+        "phoneNumber": "0966495867"
+      },
+        {
+        "id": "user14",
+        "username": "Con Nợ",
+        "phoneNumber": "0966493022"
+      },
+        {
+        "id": "user15",
+        "username": "Nợ khó đòi",
+        "phoneNumber": "0967807034"
+      }
+  ]
+}

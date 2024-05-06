@@ -1,0 +1,456 @@
+{
+  "code": 200,
+  "data": [
+   {
+    "id": "purchased01",
+    "purchasedDate": "2024-04-23T15:05:07+07:00",
+    "expiredDate": "2024-05-23T15:05:07+07:00",
+    "status" :0,
+    "type": "purchased",
+    "packData": {
+      "id": "1",
+      "status": 1,
+      "title": "ST5K",
+      "description": "500MB tốc độ cao sử dụng đến 24h cùng ngày đăng ký, hết lưu lượng truy cập theo gói Mobile Internet đang sử dụng",
+      "thumbnail": "https://didongviet.vn/dchannel/wp-content/uploads/2022/03/dang-ky-4g-viettel-didongviet.jpg",
+      "images": [],
+      "price": 5000,
+      "tags": [],
+      "category": {
+        "id": "C1",
+        "title": "Gaming"
+      },
+      "data_traffic":-1, 
+      "duration": 30,
+         "available_app":[
+        {
+          "name": "PUBG Mobile",
+          "image": "https://i.pinimg.com/474x/55/c0/b1/55c0b1a613036956408fd557b4aef46f.jpg",
+          "id": "PG01"
+        },
+          {
+          "name": "FACEBOOK",
+          "image": "https://i0.wp.com/ladolcevitasarasota.com/wp-content/uploads/2023/03/facebook-logo-icon-facebook-icon-png-images-icons-and-png-backgrounds-1.png?fit=1000%2C1000&ssl=1",
+          "id": "FB01"
+        },
+        {
+          "name": "BOOM ONLINE",
+          "image": "https://img-cdn.2game.vn/pictures/2game/2019/03/12/2game-logo-boom-m-vtc-game.png",
+          "id": "B001"
+        },
+        {
+          "name": "Liên quân",
+          "image": "https://i.pinimg.com/474x/cb/cc/47/cbcc47c3d138080ca69d00c7c7b07bd0.jpg",
+          "id": "LQ01"
+        },
+         {
+          "name": "Call Of Duty",
+          "image": "https://play-lh.googleusercontent.com/lyThPUTIsMNZFyXLxlb_zNS6nGocTLV9IUzbMfdmaikAdHz8enJrg9rAeGcXUljqa0Y=w240-h480-rw",
+          "id": "COT01"
+        },
+         {
+          "name": "Free Fire",
+          "image": "https://i.pinimg.com/originals/b4/c9/ab/b4c9abd26980c38e7b4d35ab3e62c24a.jpg",
+          "id": "FF01"
+        }
+      ]
+    }
+  },
+     {
+    "id": "purchased02",
+    "purchasedDate": "2024-04-11T15:05:07+07:00",
+    "expiredDate": "2024-04-18T15:05:07+07:00",
+    "status" :1,
+    "type": "purchased",
+    "packData":    {
+      "id": "2",
+      "status": 1,
+      "title": "ST15K",
+      "description": "1GB tốc độ cao sử dụng đến 24h cùng ngày đăng ký, hết lưu lượng truy cập theo gói Mobile Internet đang sử dụng (nếu có).Gói cước KHÔNG gia hạn hàng ngày.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs29Nn9Mj0EczI1ftEG68uaaAoEjCd_ZrzZQ&usqp=CAU",
+      "images": [],
+      "price": 15000,
+      "tags": [],
+      "category": {
+        "id": "C1",
+        "title": "Văn Phòng"
+      },
+      "data_traffic":1024, 
+      "duration": 7,
+         "available_app":[
+        {
+          "name": "PUBG Mobile",
+          "image": "https://i.pinimg.com/474x/55/c0/b1/55c0b1a613036956408fd557b4aef46f.jpg",
+          "id": "PG01"
+        },
+          {
+          "name": "FACEBOOK",
+          "image": "https://i0.wp.com/ladolcevitasarasota.com/wp-content/uploads/2023/03/facebook-logo-icon-facebook-icon-png-images-icons-and-png-backgrounds-1.png?fit=1000%2C1000&ssl=1",
+          "id": "FB01"
+        },
+        {
+          "name": "BOOM ONLINE",
+          "image": "https://img-cdn.2game.vn/pictures/2game/2019/03/12/2game-logo-boom-m-vtc-game.png",
+          "id": "B001"
+        },
+        {
+          "name": "Liên quân",
+          "image": "https://i.pinimg.com/474x/cb/cc/47/cbcc47c3d138080ca69d00c7c7b07bd0.jpg",
+          "id": "LQ01"
+        },
+         {
+          "name": "Call Of Duty",
+          "image": "https://play-lh.googleusercontent.com/lyThPUTIsMNZFyXLxlb_zNS6nGocTLV9IUzbMfdmaikAdHz8enJrg9rAeGcXUljqa0Y=w240-h480-rw",
+          "id": "COT01"
+        },
+         {
+          "name": "Free Fire",
+          "image": "https://i.pinimg.com/originals/b4/c9/ab/b4c9abd26980c38e7b4d35ab3e62c24a.jpg",
+          "id": "FF01"
+        }
+      ]
+    }
+  },
+      {
+    "id": "purchased03",
+    "purchasedDate": "2024-04-22T15:05:07+07:00",
+    "expiredDate": "2024-03-23T15:05:07+07:00",
+    "status" :1,
+    "type": "gift",
+    "packData": {
+      "id": "3",
+      "status": 1,
+      "title": "ST10K",
+      "description": "2GB tốc độ cao sử dụng đến 24h ngày đăng ký, hết lưu lượng truy cập theo gói Mobile Internet đang sử dụng (nếu có). Gói cước gia hạn hàng ngày, lưu lượng còn lại sẽ được bảo lưu khi gia hạn thành công. Được đăng ký nhiều lần, lưu lượng cộng dồn sử dụng đến 24h ngày đăng ký.",
+      "thumbnail": "https://images2.thanhnien.vn/528068263637045248/2023/4/19/img-5835-16818751806281799898011.jpg",
+      "images": [
+        
+      ],
+      "price": 10000,
+      "tags": [],
+      "category": {
+        "id": "T1",
+        "title": "Twitter1"
+      },
+      "data_traffic":500, 
+      "duration": 1,
+         "available_app":[
+        {
+          "name": "PUBG Mobile",
+          "image": "https://i.pinimg.com/474x/55/c0/b1/55c0b1a613036956408fd557b4aef46f.jpg",
+          "id": "PG01"
+        },
+          {
+          "name": "FACEBOOK",
+          "image": "https://i0.wp.com/ladolcevitasarasota.com/wp-content/uploads/2023/03/facebook-logo-icon-facebook-icon-png-images-icons-and-png-backgrounds-1.png?fit=1000%2C1000&ssl=1",
+          "id": "FB01"
+        },
+        {
+          "name": "BOOM ONLINE",
+          "image": "https://img-cdn.2game.vn/pictures/2game/2019/03/12/2game-logo-boom-m-vtc-game.png",
+          "id": "B001"
+        },
+        {
+          "name": "Liên quân",
+          "image": "https://i.pinimg.com/474x/cb/cc/47/cbcc47c3d138080ca69d00c7c7b07bd0.jpg",
+          "id": "LQ01"
+        },
+         {
+          "name": "Call Of Duty",
+          "image": "https://play-lh.googleusercontent.com/lyThPUTIsMNZFyXLxlb_zNS6nGocTLV9IUzbMfdmaikAdHz8enJrg9rAeGcXUljqa0Y=w240-h480-rw",
+          "id": "COT01"
+        },
+         {
+          "name": "Free Fire",
+          "image": "https://i.pinimg.com/originals/b4/c9/ab/b4c9abd26980c38e7b4d35ab3e62c24a.jpg",
+          "id": "FF01"
+        }
+      ]
+    }
+  },
+      {
+    "id": "purchased04",
+    "purchasedDate": "2024-04-13T15:05:07+07:00",
+    "expiredDate": "2024-05-13T15:05:07+07:00",
+    "status" :0,
+    "type": "purchased",
+    "packData": 
+     {
+      "id": "4",
+      "status": 1,
+      "title": "DK1N",
+      "description": "5GB. Miễn phí nhắn tin nội mạng. Miễn phí 10 phút/cuộc gọi nội mạng, 5 phút gọi ngoại mạng. Miễn phí xem truyền hình trên ứng dụng TV360",
+      "thumbnail": "https://viettel.dangkymang.vn/wp-content/uploads/2023/06/cach-dang-ky-4g-viettel-khong-gioi-han.webp",
+      "images": [
+        
+      ],
+      "price": 50000,
+      "tags": [],
+      "category": {
+        "id": "G1",
+        "title": "Gmail"
+      },
+      "data_traffic":3072, 
+      "duration": 30,
+         "available_app":[
+        {
+          "name": "PUBG Mobile",
+          "image": "https://i.pinimg.com/474x/55/c0/b1/55c0b1a613036956408fd557b4aef46f.jpg",
+          "id": "PG01"
+        },
+          {
+          "name": "FACEBOOK",
+          "image": "https://i0.wp.com/ladolcevitasarasota.com/wp-content/uploads/2023/03/facebook-logo-icon-facebook-icon-png-images-icons-and-png-backgrounds-1.png?fit=1000%2C1000&ssl=1",
+          "id": "FB01"
+        },
+        {
+          "name": "BOOM ONLINE",
+          "image": "https://img-cdn.2game.vn/pictures/2game/2019/03/12/2game-logo-boom-m-vtc-game.png",
+          "id": "B001"
+        },
+        {
+          "name": "Liên quân",
+          "image": "https://i.pinimg.com/474x/cb/cc/47/cbcc47c3d138080ca69d00c7c7b07bd0.jpg",
+          "id": "LQ01"
+        },
+         {
+          "name": "Call Of Duty",
+          "image": "https://play-lh.googleusercontent.com/lyThPUTIsMNZFyXLxlb_zNS6nGocTLV9IUzbMfdmaikAdHz8enJrg9rAeGcXUljqa0Y=w240-h480-rw",
+          "id": "COT01"
+        },
+         {
+          "name": "Free Fire",
+          "image": "https://i.pinimg.com/originals/b4/c9/ab/b4c9abd26980c38e7b4d35ab3e62c24a.jpg",
+          "id": "FF01"
+        }
+      ]
+    }
+  },
+      {
+    "id": "purchased05",
+    "purchasedDate": "2024-04-25T09:05:07+07:00",
+    "expiredDate": "2024-05-25T09:05:07+07:00",
+    "status" :0,
+    "type": "gift",
+    "packData":  {
+      "id": "5",
+      "status": 1,
+      "title": "FB7N",
+      "description": "Truy cập không giới hạn lưu lượng ứng dụng Facebook và nhắn tin qua Messenger.",
+      "thumbnail": "https://4gviettelthang.com/public/upload/images/dang-ky-goi-MIMAX450-viettel.jpg",
+      "images": [
+        
+      ],
+      "price": 70000,
+      "tags": [],
+      "category": {
+        "id": "C1",
+        "title": "Gaming"
+      },
+      "data_traffic":10240, 
+      "duration": 30,
+         "available_app":[
+        {
+          "name": "PUBG Mobile",
+          "image": "https://i.pinimg.com/474x/55/c0/b1/55c0b1a613036956408fd557b4aef46f.jpg",
+          "id": "PG01"
+        },
+          {
+          "name": "FACEBOOK",
+          "image": "https://i0.wp.com/ladolcevitasarasota.com/wp-content/uploads/2023/03/facebook-logo-icon-facebook-icon-png-images-icons-and-png-backgrounds-1.png?fit=1000%2C1000&ssl=1",
+          "id": "FB01"
+        },
+        {
+          "name": "BOOM ONLINE",
+          "image": "https://img-cdn.2game.vn/pictures/2game/2019/03/12/2game-logo-boom-m-vtc-game.png",
+          "id": "B001"
+        },
+        {
+          "name": "Liên quân",
+          "image": "https://i.pinimg.com/474x/cb/cc/47/cbcc47c3d138080ca69d00c7c7b07bd0.jpg",
+          "id": "LQ01"
+        },
+         {
+          "name": "Call Of Duty",
+          "image": "https://play-lh.googleusercontent.com/lyThPUTIsMNZFyXLxlb_zNS6nGocTLV9IUzbMfdmaikAdHz8enJrg9rAeGcXUljqa0Y=w240-h480-rw",
+          "id": "COT01"
+        },
+         {
+          "name": "Free Fire",
+          "image": "https://i.pinimg.com/originals/b4/c9/ab/b4c9abd26980c38e7b4d35ab3e62c24a.jpg",
+          "id": "FF01"
+        }
+      ]
+    }
+  },
+      {
+    "id": "purchased06",
+    "purchasedDate": "2024-04-23T15:05:07+07:00",
+    "expiredDate": "2024-04-29T15:05:07+07:00",
+    "status" :0,
+    "type": "gift",
+    "packData": {
+      "id": "6",
+      "status": 1,
+      "title": "ST30K",
+      "description": "Có ngay 7GB lưu lượng tốc độ cao sử dụng trong 7 ngày kể từ ngày đăng ký thành công. Hết lưu lượng truy cập theo gói Mobile Internet đang sử dụng (nếu có).",
+      "thumbnail": "https://news.khangz.com/wp-content/uploads/2022/12/umax-90-1.jpg",
+      "images": [
+        
+      ],
+      "price": 80000,
+      "tags": [],
+      "category": {
+        "id": "C1",
+        "title": "Gaming"
+      },
+      "data_traffic":2048, 
+      "duration": 7,
+         "available_app":[
+        {
+          "name": "PUBG Mobile",
+          "image": "https://i.pinimg.com/474x/55/c0/b1/55c0b1a613036956408fd557b4aef46f.jpg",
+          "id": "PG01"
+        },
+          {
+          "name": "FACEBOOK",
+          "image": "https://i0.wp.com/ladolcevitasarasota.com/wp-content/uploads/2023/03/facebook-logo-icon-facebook-icon-png-images-icons-and-png-backgrounds-1.png?fit=1000%2C1000&ssl=1",
+          "id": "FB01"
+        },
+        {
+          "name": "BOOM ONLINE",
+          "image": "https://img-cdn.2game.vn/pictures/2game/2019/03/12/2game-logo-boom-m-vtc-game.png",
+          "id": "B001"
+        },
+        {
+          "name": "Liên quân",
+          "image": "https://i.pinimg.com/474x/cb/cc/47/cbcc47c3d138080ca69d00c7c7b07bd0.jpg",
+          "id": "LQ01"
+        },
+         {
+          "name": "Call Of Duty",
+          "image": "https://play-lh.googleusercontent.com/lyThPUTIsMNZFyXLxlb_zNS6nGocTLV9IUzbMfdmaikAdHz8enJrg9rAeGcXUljqa0Y=w240-h480-rw",
+          "id": "COT01"
+        },
+         {
+          "name": "Free Fire",
+          "image": "https://i.pinimg.com/originals/b4/c9/ab/b4c9abd26980c38e7b4d35ab3e62c24a.jpg",
+          "id": "FF01"
+        }
+      ]
+    }
+  },
+      {
+    "id": "purchased07",
+    "purchasedDate": "2024-04-01T15:05:07+07:00",
+    "expiredDate": "2024-04-07T15:05:07+07:00",
+    "status" :1,
+    "type": "purchased",
+    "packData": {
+      "id": "7",
+      "status": 1,
+      "title": "FB30",
+      "description": "Truy cập không giới hạn lưu lượng ứng dụng Facebook và nhắn tin qua Messenger.",
+      "thumbnail": "https://media.vietteltelecom.vn/upload/ckfinder/images/4_8%20banner-1-02(1).jpg",
+      "images": [
+        
+      ],
+      "price": 300000,
+      "tags": [],
+      "category": {
+        "id": "C1",
+        "title": "Gaming"
+      },
+      "data_traffic":500, 
+      "duration": 7,
+         "available_app":[
+        {
+          "name": "PUBG Mobile",
+          "image": "https://i.pinimg.com/474x/55/c0/b1/55c0b1a613036956408fd557b4aef46f.jpg",
+          "id": "PG01"
+        },
+          {
+          "name": "FACEBOOK",
+          "image": "https://i0.wp.com/ladolcevitasarasota.com/wp-content/uploads/2023/03/facebook-logo-icon-facebook-icon-png-images-icons-and-png-backgrounds-1.png?fit=1000%2C1000&ssl=1",
+          "id": "FB01"
+        },
+        {
+          "name": "BOOM ONLINE",
+          "image": "https://img-cdn.2game.vn/pictures/2game/2019/03/12/2game-logo-boom-m-vtc-game.png",
+          "id": "B001"
+        },
+        {
+          "name": "Liên quân",
+          "image": "https://i.pinimg.com/474x/cb/cc/47/cbcc47c3d138080ca69d00c7c7b07bd0.jpg",
+          "id": "LQ01"
+        },
+         {
+          "name": "Call Of Duty",
+          "image": "https://play-lh.googleusercontent.com/lyThPUTIsMNZFyXLxlb_zNS6nGocTLV9IUzbMfdmaikAdHz8enJrg9rAeGcXUljqa0Y=w240-h480-rw",
+          "id": "COT01"
+        },
+         {
+          "name": "Free Fire",
+          "image": "https://i.pinimg.com/originals/b4/c9/ab/b4c9abd26980c38e7b4d35ab3e62c24a.jpg",
+          "id": "FF01"
+        }
+      ]
+    }
+  },
+      {
+    "id": "purchased08",
+    "purchasedDate": "2024-03-23T15:05:07+07:00",
+    "expiredDate": "2024-04-24T15:05:07+07:00",
+    "status" :1,
+    "type": "gift",
+    "packData": {
+      "id": "8",
+      "status": 1,
+      "title": "SD30S",
+      "description": "14GB (2GB/ngày)",
+      "thumbnail": "https://cdn.tgdd.vn/Files/2023/09/17/1547731/10-170923-121544-800-resize.jpg",
+      "images": [],
+      "price": 25000,
+      "tags": [],
+      "category": {
+        "id": "F1",
+        "title": "Facebook"
+      },
+      "data_traffic":-1, 
+      "duration": 30,
+      "available_app":[
+        {
+          "name": "PUBG Mobile",
+          "image": "https://i.pinimg.com/474x/55/c0/b1/55c0b1a613036956408fd557b4aef46f.jpg",
+          "id": "PG01"
+        },
+          {
+          "name": "FACEBOOK",
+          "image": "https://i0.wp.com/ladolcevitasarasota.com/wp-content/uploads/2023/03/facebook-logo-icon-facebook-icon-png-images-icons-and-png-backgrounds-1.png?fit=1000%2C1000&ssl=1",
+          "id": "FB01"
+        },
+        {
+          "name": "BOOM ONLINE",
+          "image": "https://img-cdn.2game.vn/pictures/2game/2019/03/12/2game-logo-boom-m-vtc-game.png",
+          "id": "B001"
+        },
+        {
+          "name": "Liên quân",
+          "image": "https://i.pinimg.com/474x/cb/cc/47/cbcc47c3d138080ca69d00c7c7b07bd0.jpg",
+          "id": "LQ01"
+        },
+         {
+          "name": "Call Of Duty",
+          "image": "https://play-lh.googleusercontent.com/lyThPUTIsMNZFyXLxlb_zNS6nGocTLV9IUzbMfdmaikAdHz8enJrg9rAeGcXUljqa0Y=w240-h480-rw",
+          "id": "COT01"
+        },
+         {
+          "name": "Free Fire",
+          "image": "https://i.pinimg.com/originals/b4/c9/ab/b4c9abd26980c38e7b4d35ab3e62c24a.jpg",
+          "id": "FF01"
+        }
+      ]
+    }
+  }
+  ]
+}
